@@ -12,9 +12,18 @@ Key Areas Covered
 	•	Assessed capital structure using debt-to-equity and interest coverage ratios
 	•	Developed a financial health scorecard covering profitability, risk, growth, and stability metrics
 
+## Dataset Used
+- <a href= "https://github.com/iamag0512/Finance-Projects-Excel/blob/main/Glenmark%20Pharmaceuticals.xlsx"> Dataset view</a>
+
 Methodology
 
 Historical stock price data was used to compute returns and measure systematic risk relative to the market. Financial statement data was analyzed to evaluate leverage, debt-servicing capacity, and overall financial performance. All models were implemented in Microsoft Excel with structured calculations and summary outputs.
+
+## Dashboard
+- <a href= "https://github.com/iamag0512/Finance-Projects-Excel/blob/main/PHOTO-2026-02-13-23-02-29.jpg"> Dashboard View</a>
+
+![PHOTO-2026-02-13-23-02-29](https://github.com/user-attachments/assets/c33faaec-a42e-4d34-b21a-7c742d700db9)
+
 
 Key Insights
 
